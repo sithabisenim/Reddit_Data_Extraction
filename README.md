@@ -59,15 +59,4 @@ This project implements a robust **ETL (Extract, Transform, Load)** pipeline for
 
 ---
 
-## **Setup Instructions**
 
-### **Prerequisites**
-- **AWS Account** with configured S3, Glue, Athena, and Redshift services.
-- **Docker** for containerizing and running Airflow, Celery, and PostgreSQL.
-- Access to the **Reddit API** for data extraction.
-
-### **Steps**
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
